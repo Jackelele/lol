@@ -21,6 +21,7 @@ This repository includes the source code to [Elele.dev](https://elele.dev) - whi
 ## 🎈 Usage <a name="usage"></a>
 
 `npm start` - Runs the app in the development mode. Open http://localhost:3000 to view it in your browser.
+
 `npm run build` - Builds the app for production to the build folder.
 
 ## ✍️ Authors <a name = "authors"></a>
