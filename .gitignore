@@ -1,3 +1,6 @@
+# Ignore Images
+src/assets/
+
 # Logs
 logs
 *.log
