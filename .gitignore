@@ -1,5 +1,7 @@
 # Ignore Images
 src/assets/
+*.png
+*.PNG
 
 # Logs
 logs
